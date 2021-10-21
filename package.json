@@ -6,6 +6,14 @@
   "files": [
     "build"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reusejs/react-component-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/reusejs/react-component-template/issues"
+  },
+  "homepage": "https://github.com/reusejs/react-component-template",
   "author": "Rajiv Seelam",
   "license": "MIT",
   "scripts": {

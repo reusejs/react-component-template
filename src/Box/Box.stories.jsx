@@ -3,7 +3,7 @@ import React from 'react';
 import Box  from './Box';
 
 export default {
-    title: 'Example/Box',
+    title: 'Atoms/Box',
     component: Box,
     argTypes: {
       backgroundColor: { control: 'color' },
